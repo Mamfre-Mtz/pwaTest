@@ -1,9 +1,9 @@
 <template>
   <nav class="bg-secondary-color">
-    <router-link :to="'/'">Home</router-link>
-    <router-link :to="'/about'">About</router-link>
-    <router-link :to="'/day'">Pokemon of the day</router-link>
-    <router-link :to="'/moves'">Moves</router-link>
+    <router-link :to="'/pwaTest'">Home</router-link>
+    <router-link :to="'/pwaTest/about'">About</router-link>
+    <router-link :to="'/pwaTest/day'">Pokemon of the day</router-link>
+    <router-link :to="'/pwaTest/moves'">Moves</router-link>
   </nav>
 </template>
 
